@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/{{theaditya09}}/achievements?format=svg&limit=3" width="350" />
+</p>
+
 <!--
 **theaditya09/theaditya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
